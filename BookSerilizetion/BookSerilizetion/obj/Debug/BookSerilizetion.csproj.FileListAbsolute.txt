@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\bin\Debug\BookSerilizetion.exe.config
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\bin\Debug\BookSerilizetion.exe
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\bin\Debug\BookSerilizetion.pdb
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\obj\Debug\BookSerilizetion.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\obj\Debug\BookSerilizetion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\obj\Debug\BookSerilizetion.exe
+C:\Users\User\source\repos\BookSerilizetion\BookSerilizetion\obj\Debug\BookSerilizetion.pdb

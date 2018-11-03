@@ -1,0 +1,7 @@
+c:\users\user\source\repos\SettingsLine\SettingsLine\bin\Debug\SettingsLine.exe.config
+c:\users\user\source\repos\SettingsLine\SettingsLine\bin\Debug\SettingsLine.exe
+c:\users\user\source\repos\SettingsLine\SettingsLine\bin\Debug\SettingsLine.pdb
+c:\users\user\source\repos\SettingsLine\SettingsLine\obj\Debug\SettingsLine.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SettingsLine\SettingsLine\obj\Debug\SettingsLine.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SettingsLine\SettingsLine\obj\Debug\SettingsLine.exe
+c:\users\user\source\repos\SettingsLine\SettingsLine\obj\Debug\SettingsLine.pdb
